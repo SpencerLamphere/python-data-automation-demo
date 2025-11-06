@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "Caleb",
+    "Department": "Engineering",
+    "Salary": 95000,
+    "NewSalary": 99750.0
+  },
+  {
+    "Name": "Jeff",
+    "Department": "Finance",
+    "Salary": 88000,
+    "NewSalary": 92400.0
+  },
+  {
+    "Name": "Mariela",
+    "Department": "Marketing",
+    "Salary": 77000,
+    "NewSalary": 80850.0
+  }
+]
